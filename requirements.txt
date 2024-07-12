@@ -1,0 +1,8 @@
+ibm_watson_machine_learning
+sentence_transformers
+streamlit
+os
+re
+pymilvus
+dotenv
+
